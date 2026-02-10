@@ -1,0 +1,8 @@
+streamlit
+torch
+pytorch-forecasting
+pandas
+numpy
+requests
+plotly
+scikit-learn
